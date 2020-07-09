@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.1 (6296 thorn-01.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="53.3518400" minlon="-6.7782100" maxlat="53.3528800" maxlon="-6.7750300"/>
+ <node id="365473448" visible="true" version="3" changeset="26399374" timestamp="2014-10-28T20:56:41Z" user="jmkie" uid="256652" lat="53.3528269" lon="-6.7824006"/>
+ <node id="365473449" visible="true" version="3" changeset="26399374" timestamp="2014-10-28T20:56:41Z" user="jmkie" uid="256652" lat="53.3525440" lon="-6.7767535"/>
+ <node id="365473450" visible="true" version="3" changeset="26399374" timestamp="2014-10-28T20:56:41Z" user="jmkie" uid="256652" lat="53.3517787" lon="-6.7619344"/>
+ <node id="713928471" visible="true" version="5" changeset="26399374" timestamp="2014-10-28T20:56:41Z" user="jmkie" uid="256652" lat="53.3511141" lon="-6.7591607"/>
+ <node id="1157982691" visible="true" version="2" changeset="26399374" timestamp="2014-10-28T20:56:41Z" user="jmkie" uid="256652" lat="53.3530432" lon="-6.7861843"/>
+ <node id="1157983176" visible="true" version="2" changeset="26399374" timestamp="2014-10-28T20:56:41Z" user="jmkie" uid="256652" lat="53.3518086" lon="-6.7627512"/>
+ <node id="3155066357" visible="true" version="1" changeset="26399374" timestamp="2014-10-28T20:56:40Z" user="jmkie" uid="256652" lat="53.3513970" lon="-6.7604204"/>
+ <node id="3155066359" visible="true" version="1" changeset="26399374" timestamp="2014-10-28T20:56:40Z" user="jmkie" uid="256652" lat="53.3517212" lon="-6.7616455"/>
+ <node id="3155066360" visible="true" version="1" changeset="26399374" timestamp="2014-10-28T20:56:40Z" user="jmkie" uid="256652" lat="53.3523859" lon="-6.7739646"/>
+ <node id="3155066861" visible="true" version="1" changeset="26399374" timestamp="2014-10-28T20:56:40Z" user="jmkie" uid="256652" lat="53.3526546" lon="-6.7790853"/>
+ <node id="3155066862" visible="true" version="1" changeset="26399374" timestamp="2014-10-28T20:56:40Z" user="jmkie" uid="256652" lat="53.3527229" lon="-6.7804882"/>
+ <node id="3155066863" visible="true" version="1" changeset="26399374" timestamp="2014-10-28T20:56:40Z" user="jmkie" uid="256652" lat="53.3529261" lon="-6.7843401"/>
+ <node id="3342387144" visible="true" version="1" changeset="28755884" timestamp="2015-02-10T17:41:09Z" user="Dafo43" uid="114051" lat="53.3528310" lon="-6.7750663">
+  <tag k="name" v="Blackwater Bridge"/>
+  <tag k="place" v="locality"/>
+ </node>
+ <way id="310161107" visible="true" version="4" changeset="39017294" timestamp="2016-05-01T13:50:45Z" user="AndrewMcCarthy" uid="1379">
+  <nd ref="1157982691"/>
+  <nd ref="3155066863"/>
+  <nd ref="365473448"/>
+  <nd ref="3155066862"/>
+  <nd ref="3155066861"/>
+  <nd ref="365473449"/>
+  <nd ref="3155066360"/>
+  <nd ref="1157983176"/>
+  <nd ref="365473450"/>
+  <nd ref="3155066359"/>
+  <nd ref="3155066357"/>
+  <nd ref="713928471"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="history" v="Retrieved from v3"/>
+  <tag k="local_class" v="primary"/>
+  <tag k="loc_ref" v="L1017-3"/>
+  <tag k="ref" v="L1017"/>
+ </way>
+</osm>

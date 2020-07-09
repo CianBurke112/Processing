@@ -1,0 +1,2 @@
+To run this program open mapping4 in processing 3.0 and press the play button in the top left.
+to change which map is displayed change the value of the map variable at the top to any number between 1 and 6 inclusive.

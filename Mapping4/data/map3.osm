@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.1 (15818 thorn-01.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="53.3520800" minlon="-6.6159900" maxlat="53.3541600" maxlon="-6.6096300"/>
+ <node id="337886315" visible="true" version="1" changeset="840336" timestamp="2009-01-26T20:29:18Z" user="Blazejos" uid="15535" lat="53.3539999" lon="-6.6158799">
+  <tag k="created_by" v="Merkaartor 0.12"/>
+ </node>
+ <node id="337886318" visible="true" version="2" changeset="20086405" timestamp="2014-01-19T15:20:23Z" user="Dafo43" uid="114051" lat="53.3539523" lon="-6.6152303"/>
+ <node id="337886321" visible="true" version="2" changeset="20086405" timestamp="2014-01-19T15:20:23Z" user="Dafo43" uid="114051" lat="53.3537586" lon="-6.6146131"/>
+ <node id="337886325" visible="true" version="1" changeset="840336" timestamp="2009-01-26T20:29:18Z" user="Blazejos" uid="15535" lat="53.3530600" lon="-6.6131000">
+  <tag k="created_by" v="Merkaartor 0.12"/>
+ </node>
+ <node id="337886327" visible="true" version="2" changeset="20086405" timestamp="2014-01-19T15:20:23Z" user="Dafo43" uid="114051" lat="53.3530066" lon="-6.6127048"/>
+ <node id="337886329" visible="true" version="2" changeset="20086405" timestamp="2014-01-19T15:20:23Z" user="Dafo43" uid="114051" lat="53.3529997" lon="-6.6125157"/>
+ <node id="337886334" visible="true" version="3" changeset="844198" timestamp="2009-03-22T09:50:32Z" user="AndrewMcCarthy" uid="1379" lat="53.3529499" lon="-6.6120600">
+  <tag k="created_by" v="Merkaartor 0.12"/>
+ </node>
+ <node id="337886341" visible="true" version="2" changeset="20086405" timestamp="2014-01-19T15:20:26Z" user="Dafo43" uid="114051" lat="53.3527341" lon="-6.6112685"/>
+ <node id="337886345" visible="true" version="2" changeset="20086405" timestamp="2014-01-19T15:20:26Z" user="Dafo43" uid="114051" lat="53.3523459" lon="-6.6106015"/>
+ <node id="337886348" visible="true" version="2" changeset="20086405" timestamp="2014-01-19T15:20:26Z" user="Dafo43" uid="114051" lat="53.3518023" lon="-6.6096639"/>
+ <node id="337886351" visible="true" version="3" changeset="20086405" timestamp="2014-01-19T15:20:23Z" user="Dafo43" uid="114051" lat="53.3514379" lon="-6.6083728"/>
+ <node id="337886355" visible="true" version="5" changeset="20086405" timestamp="2014-01-19T15:20:29Z" user="Dafo43" uid="114051" lat="53.3513165" lon="-6.6078476"/>
+ <node id="337886358" visible="true" version="3" changeset="20086405" timestamp="2014-01-19T15:20:29Z" user="Dafo43" uid="114051" lat="53.3511432" lon="-6.6070054"/>
+ <node id="337886361" visible="true" version="2" changeset="20086405" timestamp="2014-01-19T15:20:25Z" user="Dafo43" uid="114051" lat="53.3504882" lon="-6.6040351"/>
+ <node id="337886364" visible="true" version="2" changeset="20086405" timestamp="2014-01-19T15:20:22Z" user="Dafo43" uid="114051" lat="53.3502081" lon="-6.6024104"/>
+ <node id="337886370" visible="true" version="2" changeset="20086405" timestamp="2014-01-19T15:20:23Z" user="Dafo43" uid="114051" lat="53.3500168" lon="-6.6010832"/>
+ <node id="337886384" visible="true" version="3" changeset="818421" timestamp="2009-03-16T11:34:00Z" user="Blazejos" uid="15535" lat="53.3533027" lon="-6.6130482">
+  <tag k="created_by" v="Potlatch 0.10f"/>
+  <tag k="historic" v="ruins"/>
+  <tag k="name" v="Taghadoe Church"/>
+ </node>
+ <node id="337886388" visible="true" version="1" changeset="840336" timestamp="2009-01-26T20:29:25Z" user="Blazejos" uid="15535" lat="53.3530803" lon="-6.6126764">
+  <tag k="barrier" v="gate"/>
+  <tag k="created_by" v="Merkaartor 0.12"/>
+ </node>
+ <node id="337886391" visible="true" version="1" changeset="840336" timestamp="2009-01-26T20:29:25Z" user="Blazejos" uid="15535" lat="53.3531350" lon="-6.6127722">
+  <tag k="created_by" v="Merkaartor 0.12"/>
+ </node>
+ <node id="337886396" visible="true" version="1" changeset="840336" timestamp="2009-01-26T20:29:26Z" user="Blazejos" uid="15535" lat="53.3531600" lon="-6.6129000">
+  <tag k="created_by" v="Merkaartor 0.12"/>
+ </node>
+ <node id="337886399" visible="true" version="1" changeset="840336" timestamp="2009-01-26T20:29:26Z" user="Blazejos" uid="15535" lat="53.3531908" lon="-6.6130147">
+  <tag k="created_by" v="Merkaartor 0.12"/>
+ </node>
+ <node id="337886404" visible="true" version="1" changeset="840336" timestamp="2009-01-26T20:29:26Z" user="Blazejos" uid="15535" lat="53.3531996" lon="-6.6130472">
+  <tag k="created_by" v="Merkaartor 0.12"/>
+ </node>
+ <node id="337886409" visible="true" version="1" changeset="840336" timestamp="2009-01-26T20:29:26Z" user="Blazejos" uid="15535" lat="53.3531871" lon="-6.6130847">
+  <tag k="created_by" v="Merkaartor 0.12"/>
+ </node>
+ <node id="337886414" visible="true" version="1" changeset="840336" timestamp="2009-01-26T20:29:27Z" user="Blazejos" uid="15535" lat="53.3531797" lon="-6.6131430">
+  <tag k="created_by" v="Merkaartor 0.12"/>
+ </node>
+ <node id="337886420" visible="true" version="1" changeset="840336" timestamp="2009-01-26T20:29:27Z" user="Blazejos" uid="15535" lat="53.3531971" lon="-6.6131805">
+  <tag k="created_by" v="Merkaartor 0.12"/>
+ </node>
+ <node id="337886424" visible="true" version="1" changeset="840336" timestamp="2009-01-26T20:29:28Z" user="Blazejos" uid="15535" lat="53.3532220" lon="-6.6131680">
+  <tag k="created_by" v="Merkaartor 0.12"/>
+ </node>
+ <node id="337886430" visible="true" version="1" changeset="840336" timestamp="2009-01-26T20:29:28Z" user="Blazejos" uid="15535" lat="53.3532369" lon="-6.6131471">
+  <tag k="created_by" v="Merkaartor 0.12"/>
+ </node>
+ <node id="337886435" visible="true" version="1" changeset="840336" timestamp="2009-01-26T20:29:29Z" user="Blazejos" uid="15535" lat="53.3532319" lon="-6.6131221">
+  <tag k="created_by" v="Merkaartor 0.12"/>
+ </node>
+ <node id="337886442" visible="true" version="1" changeset="840336" timestamp="2009-01-26T20:29:30Z" user="Blazejos" uid="15535" lat="53.3532319" lon="-6.6130722">
+  <tag k="created_by" v="Merkaartor 0.12"/>
+ </node>
+ <node id="337886446" visible="true" version="1" changeset="840336" timestamp="2009-01-26T20:29:30Z" user="Blazejos" uid="15535" lat="53.3532600" lon="-6.6131000">
+  <tag k="created_by" v="Merkaartor 0.12"/>
+ </node>
+ <node id="337886450" visible="true" version="1" changeset="840336" timestamp="2009-01-26T20:29:31Z" user="Blazejos" uid="15535" lat="53.3533000" lon="-6.6132000">
+  <tag k="created_by" v="Merkaartor 0.12"/>
+ </node>
+ <node id="337886455" visible="true" version="1" changeset="840336" timestamp="2009-01-26T20:29:31Z" user="Blazejos" uid="15535" lat="53.3533500" lon="-6.6131100">
+  <tag k="created_by" v="Merkaartor 0.12"/>
+ </node>
+ <node id="337886458" visible="true" version="1" changeset="840336" timestamp="2009-01-26T20:29:32Z" user="Blazejos" uid="15535" lat="53.3533438" lon="-6.6130263">
+  <tag k="created_by" v="Merkaartor 0.12"/>
+ </node>
+ <node id="337886462" visible="true" version="1" changeset="840336" timestamp="2009-01-26T20:29:32Z" user="Blazejos" uid="15535" lat="53.3533285" lon="-6.6129884">
+  <tag k="created_by" v="Merkaartor 0.12"/>
+ </node>
+ <node id="337886468" visible="true" version="1" changeset="840336" timestamp="2009-01-26T20:29:33Z" user="Blazejos" uid="15535" lat="53.3533090" lon="-6.6129555">
+  <tag k="created_by" v="Merkaartor 0.12"/>
+ </node>
+ <node id="337886471" visible="true" version="1" changeset="840336" timestamp="2009-01-26T20:29:33Z" user="Blazejos" uid="15535" lat="53.3533040" lon="-6.6129347">
+  <tag k="created_by" v="Merkaartor 0.12"/>
+ </node>
+ <node id="337886474" visible="true" version="1" changeset="840336" timestamp="2009-01-26T20:29:34Z" user="Blazejos" uid="15535" lat="53.3532891" lon="-6.6129222">
+  <tag k="created_by" v="Merkaartor 0.12"/>
+ </node>
+ <node id="337886480" visible="true" version="1" changeset="840336" timestamp="2009-01-26T20:29:34Z" user="Blazejos" uid="15535" lat="53.3532792" lon="-6.6129013">
+  <tag k="created_by" v="Merkaartor 0.12"/>
+ </node>
+ <node id="337886486" visible="true" version="1" changeset="840336" timestamp="2009-01-26T20:29:35Z" user="Blazejos" uid="15535" lat="53.3532667" lon="-6.6128972">
+  <tag k="created_by" v="Merkaartor 0.12"/>
+ </node>
+ <node id="337886491" visible="true" version="1" changeset="840336" timestamp="2009-01-26T20:29:35Z" user="Blazejos" uid="15535" lat="53.3532493" lon="-6.6129013">
+  <tag k="created_by" v="Merkaartor 0.12"/>
+ </node>
+ <node id="337886496" visible="true" version="1" changeset="840336" timestamp="2009-01-26T20:29:36Z" user="Blazejos" uid="15535" lat="53.3532319" lon="-6.6129388">
+  <tag k="created_by" v="Merkaartor 0.12"/>
+ </node>
+ <node id="337886498" visible="true" version="1" changeset="840336" timestamp="2009-01-26T20:29:37Z" user="Blazejos" uid="15535" lat="53.3532220" lon="-6.6129514">
+  <tag k="created_by" v="Merkaartor 0.12"/>
+ </node>
+ <node id="337886500" visible="true" version="1" changeset="840336" timestamp="2009-01-26T20:29:37Z" user="Blazejos" uid="15535" lat="53.3532145" lon="-6.6129680">
+  <tag k="created_by" v="Merkaartor 0.12"/>
+ </node>
+ <node id="337886512" visible="true" version="1" changeset="840336" timestamp="2009-01-26T20:29:40Z" user="Blazejos" uid="15535" lat="53.3532172" lon="-6.6130513">
+  <tag k="created_by" v="Merkaartor 0.12"/>
+ </node>
+ <node id="361080053" visible="true" version="9" changeset="80803297" timestamp="2020-02-10T15:12:29Z" user="hofoen" uid="52797" lat="53.3532105" lon="-6.6131255">
+  <tag k="description" v="Round Tower from 6th century"/>
+  <tag k="heritage" v="yes"/>
+  <tag k="historic" v="ruins"/>
+  <tag k="name" v="Taghadoe Round Tower"/>
+  <tag k="url" v="http://www.kildare.ie/heritage/historic-sites/taghadoe.asp"/>
+  <tag k="wikidata" v="Q30246976"/>
+ </node>
+ <node id="392273543" visible="true" version="1" changeset="1116223" timestamp="2009-05-08T12:13:39Z" user="Blazejos" uid="15535" lat="53.3531570" lon="-6.6126461"/>
+ <node id="392273544" visible="true" version="2" changeset="7392006" timestamp="2011-02-25T16:37:32Z" user="Blazejos" uid="15535" lat="53.3532157" lon="-6.6126882"/>
+ <node id="392273545" visible="true" version="2" changeset="7392006" timestamp="2011-02-25T16:37:35Z" user="Blazejos" uid="15535" lat="53.3534783" lon="-6.6134324"/>
+ <node id="392273546" visible="true" version="2" changeset="7392006" timestamp="2011-02-25T16:37:37Z" user="Blazejos" uid="15535" lat="53.3532655" lon="-6.6134928"/>
+ <node id="392273547" visible="true" version="2" changeset="7392006" timestamp="2011-02-25T16:37:30Z" user="Blazejos" uid="15535" lat="53.3531747" lon="-6.6132720"/>
+ <node id="392273548" visible="true" version="2" changeset="7392006" timestamp="2011-02-25T16:37:35Z" user="Blazejos" uid="15535" lat="53.3530957" lon="-6.6130914"/>
+ <node id="392273549" visible="true" version="2" changeset="7392006" timestamp="2011-02-25T16:37:37Z" user="Blazejos" uid="15535" lat="53.3530653" lon="-6.6128155"/>
+ <node id="392273550" visible="true" version="2" changeset="7392006" timestamp="2011-02-25T16:37:40Z" user="Blazejos" uid="15535" lat="53.3535845" lon="-6.6122088"/>
+ <node id="392273551" visible="true" version="2" changeset="7392006" timestamp="2011-02-25T16:37:35Z" user="Blazejos" uid="15535" lat="53.3533262" lon="-6.6124370"/>
+ <node id="392273552" visible="true" version="1" changeset="1116223" timestamp="2009-05-08T12:13:40Z" user="Blazejos" uid="15535" lat="53.3532068" lon="-6.6125437"/>
+ <node id="392273553" visible="true" version="1" changeset="1116223" timestamp="2009-05-08T12:13:40Z" user="Blazejos" uid="15535" lat="53.3530881" lon="-6.6125755">
+  <tag k="barrier" v="gate"/>
+  <tag k="bicycle" v="yes"/>
+  <tag k="foot" v="yes"/>
+  <tag k="horse" v="yes"/>
+ </node>
+ <node id="1172534231" visible="true" version="1" changeset="7392006" timestamp="2011-02-25T16:37:23Z" user="Blazejos" uid="15535" lat="53.3534310" lon="-6.6130365"/>
+ <node id="1172534287" visible="true" version="1" changeset="7392006" timestamp="2011-02-25T16:37:24Z" user="Blazejos" uid="15535" lat="53.3532646" lon="-6.6127603"/>
+ <node id="1172534367" visible="true" version="1" changeset="7392006" timestamp="2011-02-25T16:37:26Z" user="Blazejos" uid="15535" lat="53.3533941" lon="-6.6128798"/>
+ <node id="1172534406" visible="true" version="1" changeset="7392006" timestamp="2011-02-25T16:37:26Z" user="Blazejos" uid="15535" lat="53.3534576" lon="-6.6132074"/>
+ <node id="1172534481" visible="true" version="1" changeset="7392006" timestamp="2011-02-25T16:37:28Z" user="Blazejos" uid="15535" lat="53.3533313" lon="-6.6127994"/>
+ <node id="2628685764" visible="true" version="1" changeset="20086405" timestamp="2014-01-19T15:20:16Z" user="Dafo43" uid="114051" lat="53.3525439" lon="-6.6108740"/>
+ <node id="2628685844" visible="true" version="1" changeset="20086405" timestamp="2014-01-19T15:20:17Z" user="Dafo43" uid="114051" lat="53.3521364" lon="-6.6103314"/>
+ <node id="2628685876" visible="true" version="1" changeset="20086405" timestamp="2014-01-19T15:20:18Z" user="Dafo43" uid="114051" lat="53.3519845" lon="-6.6100610"/>
+ <node id="2628685877" visible="true" version="1" changeset="20086405" timestamp="2014-01-19T15:20:18Z" user="Dafo43" uid="114051" lat="53.3516310" lon="-6.6091717"/>
+ <node id="2628685890" visible="true" version="1" changeset="20086405" timestamp="2014-01-19T15:20:18Z" user="Dafo43" uid="114051" lat="53.3509425" lon="-6.6060967"/>
+ <node id="2628685891" visible="true" version="1" changeset="20086405" timestamp="2014-01-19T15:20:18Z" user="Dafo43" uid="114051" lat="53.3503523" lon="-6.6033278"/>
+ <node id="2628685892" visible="true" version="1" changeset="20086405" timestamp="2014-01-19T15:20:18Z" user="Dafo43" uid="114051" lat="53.3497982" lon="-6.5995749"/>
+ <node id="2628685893" visible="true" version="1" changeset="20086405" timestamp="2014-01-19T15:20:18Z" user="Dafo43" uid="114051" lat="53.3498788" lon="-6.6001801"/>
+ <node id="2628685911" visible="true" version="1" changeset="20086405" timestamp="2014-01-19T15:20:19Z" user="Dafo43" uid="114051" lat="53.3538538" lon="-6.6171561"/>
+ <node id="2628685917" visible="true" version="1" changeset="20086405" timestamp="2014-01-19T15:20:19Z" user="Dafo43" uid="114051" lat="53.3538798" lon="-6.6168605"/>
+ <node id="2628685918" visible="true" version="1" changeset="20086405" timestamp="2014-01-19T15:20:19Z" user="Dafo43" uid="114051" lat="53.3540034" lon="-6.6156318"/>
+ <node id="2628685919" visible="true" version="1" changeset="20086405" timestamp="2014-01-19T15:20:19Z" user="Dafo43" uid="114051" lat="53.3536682" lon="-6.6144173"/>
+ <node id="2628685920" visible="true" version="1" changeset="20086405" timestamp="2014-01-19T15:20:19Z" user="Dafo43" uid="114051" lat="53.3539891" lon="-6.6154203"/>
+ <node id="2628685922" visible="true" version="1" changeset="20086405" timestamp="2014-01-19T15:20:19Z" user="Dafo43" uid="114051" lat="53.3535224" lon="-6.6141834"/>
+ <node id="2628685924" visible="true" version="1" changeset="20086405" timestamp="2014-01-19T15:20:19Z" user="Dafo43" uid="114051" lat="53.3533730" lon="-6.6139063"/>
+ <node id="2628685926" visible="true" version="1" changeset="20086405" timestamp="2014-01-19T15:20:19Z" user="Dafo43" uid="114051" lat="53.3532074" lon="-6.6135167"/>
+ <node id="2628685928" visible="true" version="1" changeset="20086405" timestamp="2014-01-19T15:20:19Z" user="Dafo43" uid="114051" lat="53.3531169" lon="-6.6132826"/>
+ <node id="2628685930" visible="true" version="1" changeset="20086405" timestamp="2014-01-19T15:20:19Z" user="Dafo43" uid="114051" lat="53.3530193" lon="-6.6129116"/>
+ <node id="2628685931" visible="true" version="1" changeset="20086405" timestamp="2014-01-19T15:20:19Z" user="Dafo43" uid="114051" lat="53.3526378" lon="-6.6110568"/>
+ <node id="2628685933" visible="true" version="1" changeset="20086405" timestamp="2014-01-19T15:20:19Z" user="Dafo43" uid="114051" lat="53.3529873" lon="-6.6123665"/>
+ <node id="3294944017" visible="true" version="1" changeset="28214594" timestamp="2015-01-17T17:43:23Z" user="jmkie" uid="256652" lat="53.3538520" lon="-6.6174442"/>
+ <node id="3924587351" visible="true" version="1" changeset="36329838" timestamp="2016-01-03T00:45:48Z" user="jmkie" uid="256652" lat="53.3526800" lon="-6.6130085">
+  <tag k="locality" v="subtownland"/>
+  <tag k="name" v="Taghadoe"/>
+  <tag k="place" v="locality"/>
+ </node>
+ <node id="4350393193" visible="true" version="1" changeset="41457224" timestamp="2016-08-15T00:49:07Z" user="VictorIE" uid="2008037" lat="53.3499970" lon="-6.6009539"/>
+ <node id="4557495128" visible="true" version="1" changeset="44452906" timestamp="2016-12-16T17:37:24Z" user="VictorIE" uid="2008037" lat="53.3497634" lon="-6.5992525">
+  <tag k="highway" v="stop"/>
+ </node>
+ <node id="4557495129" visible="true" version="1" changeset="44452906" timestamp="2016-12-16T17:37:24Z" user="VictorIE" uid="2008037" lat="53.3497319" lon="-6.5991538"/>
+ <way id="30575934" visible="true" version="9" changeset="53532143" timestamp="2017-11-05T16:03:01Z" user="VictorIE" uid="2008037">
+  <nd ref="337886334"/>
+  <nd ref="337886341"/>
+  <nd ref="2628685931"/>
+  <nd ref="2628685764"/>
+  <nd ref="337886345"/>
+  <nd ref="2628685844"/>
+  <nd ref="2628685876"/>
+  <nd ref="337886348"/>
+  <nd ref="2628685877"/>
+  <nd ref="337886351"/>
+  <nd ref="337886355"/>
+  <nd ref="337886358"/>
+  <nd ref="2628685890"/>
+  <nd ref="337886361"/>
+  <nd ref="2628685891"/>
+  <nd ref="337886364"/>
+  <nd ref="337886370"/>
+  <nd ref="4350393193"/>
+  <nd ref="2628685893"/>
+  <nd ref="2628685892"/>
+  <nd ref="4557495128"/>
+  <nd ref="4557495129"/>
+  <tag k="highway" v="unclassified"/>
+  <tag k="lanes" v="2"/>
+  <tag k="ref" v="L5037"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="30575950" visible="true" version="3" changeset="11251955" timestamp="2012-04-10T12:52:42Z" user="Blazejos" uid="15535">
+  <nd ref="337886329"/>
+  <nd ref="337886388"/>
+  <nd ref="337886391"/>
+  <nd ref="337886396"/>
+  <nd ref="337886399"/>
+  <nd ref="337886404"/>
+  <nd ref="337886409"/>
+  <nd ref="337886414"/>
+  <nd ref="337886420"/>
+  <nd ref="337886424"/>
+  <nd ref="337886430"/>
+  <nd ref="337886435"/>
+  <nd ref="337886442"/>
+  <nd ref="337886446"/>
+  <nd ref="337886450"/>
+  <nd ref="337886455"/>
+  <nd ref="337886458"/>
+  <nd ref="337886462"/>
+  <nd ref="337886468"/>
+  <nd ref="337886471"/>
+  <nd ref="337886474"/>
+  <nd ref="337886480"/>
+  <nd ref="337886486"/>
+  <nd ref="337886491"/>
+  <nd ref="337886496"/>
+  <nd ref="337886498"/>
+  <nd ref="337886500"/>
+  <nd ref="337886399"/>
+  <tag k="highway" v="path"/>
+ </way>
+ <way id="30575952" visible="true" version="2" changeset="11251955" timestamp="2012-04-10T12:52:43Z" user="Blazejos" uid="15535">
+  <nd ref="337886442"/>
+  <nd ref="337886512"/>
+  <nd ref="337886404"/>
+  <tag k="highway" v="path"/>
+ </way>
+ <way id="34204154" visible="true" version="4" changeset="80803297" timestamp="2020-02-10T15:12:29Z" user="hofoen" uid="52797">
+  <nd ref="337886388"/>
+  <nd ref="392273543"/>
+  <nd ref="392273544"/>
+  <nd ref="1172534287"/>
+  <nd ref="1172534481"/>
+  <nd ref="1172534367"/>
+  <nd ref="1172534231"/>
+  <nd ref="1172534406"/>
+  <nd ref="392273545"/>
+  <nd ref="392273546"/>
+  <nd ref="392273547"/>
+  <nd ref="392273548"/>
+  <nd ref="392273549"/>
+  <nd ref="337886388"/>
+  <tag k="amenity" v="grave_yard"/>
+  <tag k="barrier" v="block"/>
+  <tag k="denomination" v="catholic"/>
+  <tag k="name" v="Taghadoe"/>
+  <tag k="religion" v="christian"/>
+  <tag k="wikidata" v="Q7675234"/>
+  <tag k="wikipedia" v="en:Taghadoe"/>
+ </way>
+ <way id="34204155" visible="true" version="1" changeset="1116223" timestamp="2009-05-08T12:13:40Z" user="Blazejos" uid="15535">
+  <nd ref="392273550"/>
+  <nd ref="392273551"/>
+  <nd ref="392273552"/>
+  <nd ref="392273553"/>
+  <nd ref="337886329"/>
+  <tag k="highway" v="track"/>
+  <tag k="tracktype" v="grade4"/>
+ </way>
+ <way id="322726262" visible="true" version="2" changeset="28755884" timestamp="2015-02-10T17:41:19Z" user="Dafo43" uid="114051">
+  <nd ref="3294944017"/>
+  <nd ref="2628685911"/>
+  <nd ref="2628685917"/>
+  <nd ref="337886315"/>
+  <nd ref="2628685918"/>
+  <nd ref="2628685920"/>
+  <nd ref="337886318"/>
+  <nd ref="337886321"/>
+  <nd ref="2628685919"/>
+  <nd ref="2628685922"/>
+  <nd ref="2628685924"/>
+  <nd ref="2628685926"/>
+  <nd ref="2628685928"/>
+  <nd ref="337886325"/>
+  <nd ref="2628685930"/>
+  <nd ref="337886327"/>
+  <nd ref="337886329"/>
+  <nd ref="2628685933"/>
+  <nd ref="337886334"/>
+  <tag k="highway" v="unclassified"/>
+  <tag k="ref" v="L5037"/>
+ </way>
+</osm>
